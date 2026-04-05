@@ -1,0 +1,13 @@
+messages:
+  usage: "Usage: /bounty <player> <amount>"
+  no-permission: "You don't have permission to remove bounties!"
+  group-exists: "You already have a group!"
+  not-enough-money: "You don't have enough money!"
+  not-yourself: "You can't place a bounty on yourself!"
+  player-only: "Only players can use this command!"
+  no-group: "You don't have a group!"
+  group-full: "The group is full!"
+  not-hunter: "You are not the designated hunter for this bounty!"
+  no-permission-redeem: "You don't have permission to redeem bounties!"
+  bounty-redeemed: "You redeemed the bounty on {player} - {amount} coins!"
+  group-redeemed: "Your group redeemed the bounty! You received {amount} coins!"

@@ -1,0 +1,10 @@
+name: OdisseaBountySystem
+version: '1.0'
+main: me.Gabrielhulk10.odisseaBountySystem.OdisseaBountySystem
+api-version: '1.21'
+softdepend: [PlaceholderAPI, Vault, Towny]
+
+commands:
+  bounty:
+    description: Manages the bounty system
+    usage: /bounty <player>
